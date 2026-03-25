@@ -1,0 +1,4 @@
+﻿performance_group,num_teams,avg_run_time_secs,avg_work_time_secs,avg_roxzone_secs,run_pct_of_total,work_pct_of_total,roxzone_pct_of_total
+Sub 1:00 (Elite Target),887,1975,1239,226,57.4,36,6.6
+1:00 to 1:15,7112,2379,1406,312,58.1,34.3,7.6
+Over 1:15,7117,3024,1682,472,58.4,32.5,9.1

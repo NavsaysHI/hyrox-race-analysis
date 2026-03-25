@@ -1,0 +1,4 @@
+﻿performance_group,num_teams,avg_run1_secs,avg_run2_secs,avg_run3_secs,avg_run4_secs,avg_run5_secs,avg_run6_secs,avg_run7_secs,avg_run8_secs
+Sub 1:00 (Elite Target),887,216,236,250,251,254,251,252,265
+1:00 to 1:15,7112,257,280,302,304,308,303,301,323
+Over 1:15,7117,308,349,382,386,397,387,383,431
